@@ -1,7 +1,8 @@
 # Ohjelmoinnin perusteet kielellä Python
 
-Pieniä ja yksinkertaisia koodeja
-Labrojen aiheet
+Pieniä ja yksinkertaisia koodeja.
+
+Labrojen aiheet:
 1. Perustietotyypit ja muuttujat
 2. Merkkijonojen käsittely
 3. Ehtorakenteet
